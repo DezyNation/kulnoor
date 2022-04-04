@@ -140,13 +140,18 @@ header h1{
 
 
 @media (max-width: 768px) {
+
+    .hero{
+        padding: 1rem;
+    }
+
     .video{
         width: 90vw;
         height: 240px;
     }
 
     .msg-wrapper{
-        padding: 5%;
+        padding: 1rem;
     }
     .author{
         width: 100%;
