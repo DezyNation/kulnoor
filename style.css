@@ -56,7 +56,7 @@ header h1{
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    background: url('/herobg.svg') center/cover no-repeat;
+    background: url('herobg.svg') center/cover no-repeat;
 }
 
 .hero h1{
